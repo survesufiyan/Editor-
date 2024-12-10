@@ -1,0 +1,16 @@
+.header {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+.red-line {
+  color: red;
+}
+
+.underline-text {
+  text-decoration: underline;
+}
